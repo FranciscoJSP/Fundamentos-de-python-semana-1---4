@@ -98,3 +98,4 @@ print("======== Tarea Calculadora I.M.C. Curso - Fundamentos de Python =========
 
 #Fin del programa.
 
+#Gracias por lo que nos enseñaron.
