@@ -5,7 +5,7 @@ El presente proyecto es desarrollado para dar solución a la petición de crear 
 -Que contenga todo lo visto en el curso para aplicarlo\
 -Que en los textos solicitados sea obligatorio tanto el tipo de dato, como que no se deje vacío y si lo es andar algún mensaje de error\
 -Que el resultado final sea Los datos completos del usuario y el resultado de su IMC.\
-\\
+\
 Lo que se aplicó durante todo este ejercicio fue\
 -Instalación de python\
 -Aplicación y definición de variables\
