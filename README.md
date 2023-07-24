@@ -15,6 +15,6 @@ Lo que se aplicó durante todo este ejercicio fue\
 -Sentencias si es verdadero o falso y dar un resultado a partir de ahí\
 -Usar saltos de línea, espacios y más aspectos que den un buen formato y presentación al programa\
 -Usar mas de una funcio o definiciones juntas "int(input("Ingresa tu edad: "))"\
--Usar mas de una opercion "round((peso/(estatura)**2),2)"\
+-Usar mas de una opercion "round((peso/(estatura)**2),2)"
 
 Francisco Javier Salas Palomo
