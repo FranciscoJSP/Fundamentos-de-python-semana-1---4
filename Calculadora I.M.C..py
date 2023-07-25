@@ -13,7 +13,7 @@ def validar_texto(cadena):
 
 nombre = input("Ingresa tu nombre((s): ")
 while not validar_texto(nombre):
-    nombre = input("Ingresa tu nombre (campo obligatorio): ")
+    nombre = input("Ingresa tu nombre(s) (campo obligatorio): ")
 
 
 apellido_pa = input("Ingresa tu apellido paterno: ")
